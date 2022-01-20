@@ -1,0 +1,5 @@
+- Hi, I'm @Atikan1313, I'm 24 and I work in the field of medicine. I decided to change my occupation;
+- 👀 I am interested in learning Python;
+- 🌱 I am currently self-learning with the help of the book "A Byte of Python", courses on Udemy and some YouTube channels;
+- 💞 ️ I am looking for opportunities to cooperate with current IT specialists for further self-study;
+- 📫 You can contact me in Telegram: @atikan_13.
