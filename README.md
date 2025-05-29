@@ -2,4 +2,4 @@
 - 👀 I am interested in learning Python;
 - 🌱 I am currently self-learning with the help of the book "A Byte of Python", courses on Udemy and some YouTube channels;
 - 💞 ️ I am looking for opportunities to cooperate with current IT specialists for further self-study;
-- 📫 You can contact me in Telegram: @atikan_13.
+- 📫 You can contact me in email: nikita.pozniak9@gmail.com.
